@@ -1,63 +1,129 @@
+# Hey, I'm Dhruv 👋
+
 <div align="center">
 
-# Dhruv Vaishnav
+### ML Engineer · AI Systems Builder
 
-### ML Engineer · AI Systems Builder · Founder, Deep Iron Labs
+<img src="https://komarev.com/ghpvc/?username=built-by-dhruv&label=PROFILE+VIEWS&style=flat-square" />
 
-I build and deploy practical AI systems — from private LLM infrastructure and retrieval pipelines to computer vision applications and real-time voice agents.
+<br/><br/>
 
-[Portfolio](https://github.com/built-by-dhruv) · [GitHub](https://github.com/built-by-dhruv)
+> **I build AI systems that move beyond experiments and into real-world deployment.**
+
+**Private LLMs · RAG · Computer Vision · Voice AI · ML Deployment**
 
 </div>
 
 ---
 
-## About
+## 🧠 About Me
 
-I'm an engineer focused on taking machine learning from experimentation to production. I enjoy working across the full stack: model selection, inference infrastructure, APIs, integrations, and deployment.
+I'm **Dhruv Vaishnav**, an engineer focused on building practical AI systems end-to-end.
 
-Currently building at **Deep Iron Labs**, with an interest in reliable AI systems that solve real operational problems.
+My work sits at the intersection of **machine learning, backend engineering, and AI infrastructure** — taking ideas from models and prototypes to APIs, real-time systems, and production deployments.
 
-- Building private and self-hosted LLM / RAG systems
-- Deploying computer vision pipelines for detection, monitoring, and automation
-- Developing real-time voice agents and AI-powered workflows
-- Exploring robotics, intelligent agents, and practical automation
+- 🧠 Building **private and self-hosted LLM systems**
+- 👁️ Developing **computer vision for monitoring and automation**
+- 🎙️ Creating **real-time AI voice agents**
+- ⚙️ Deploying **ML models, APIs, and inference infrastructure**
+- 🤖 Exploring **robotics and intelligent automation**
 
-## What I Work With
+---
 
-**Languages & backend**
+## ⚡ What I Build
 
-Python · SQL · FastAPI · REST APIs · TypeScript
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Machine Learning & AI**
+### 🧠 Private AI Systems
+Self-hosted LLMs, RAG pipelines, vector search, private inference, and secure AI infrastructure.
 
-PyTorch · YOLO · OpenCV · Transformers · Embeddings · RAG · LLM Integration
+</td>
+<td width="50%" valign="top">
 
-**LLM infrastructure & data**
+### 👁️ Computer Vision
+Object detection, YOLO pipelines, visual monitoring, gesture recognition, and automation systems.
 
-vLLM · Qdrant · Vector Search · Model Serving · Docker · PostgreSQL
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Realtime AI & deployment**
+### 🎙️ Voice AI
+Real-time conversational agents combining speech recognition, LLM reasoning, and speech synthesis.
 
-LiveKit · Speech-to-Text · Text-to-Speech · AWS · Render · Vercel · Linux
+</td>
+<td width="50%" valign="top">
 
-## Selected Work
+### 🚀 ML Deployment
+FastAPI services, Docker, model serving, databases, cloud deployment, and production integrations.
 
-- **Computer Vision** — object detection, hand-gesture recognition, and visual monitoring systems.
-- **Voice AI** — real-time voice assistants and agent workflows using LiveKit.
-- **ML Engineering** — model APIs, ML project structure, experiment tracking, and deployment.
-- **Applied AI** — document processing, chatbots, and automation tools.
+</td>
+</tr>
+</table>
 
-Explore my repositories for implementations, experiments, and projects.
+---
 
-## Current Direction
+## 🛠️ Tech Stack
 
-My focus is on building AI systems that are useful beyond a demo: private inference, dependable integrations, production deployment, and automation of real-world workflows.
+### Languages & Backend
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,fastapi" />
+
+### AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+
+### Infrastructure & Deployment
+
+<img src="https://skillicons.dev/icons?i=docker,postgres,aws,linux,git,github" />
+
+**Also working with:** vLLM · Qdrant · YOLO · Transformers · RAG · LiveKit · REST APIs · Vector Search
+
+---
+
+## 🚧 Areas I'm Building In
+
+| Area | Focus |
+|---|---|
+| 🧠 **LLM Infrastructure** | Private deployment, inference & RAG |
+| 👁️ **Computer Vision** | Detection, monitoring & automation |
+| 🎙️ **Voice Agents** | Real-time conversational AI |
+| ⚙️ **ML Engineering** | APIs, serving & deployment |
+| 🤖 **Future Systems** | Robotics & intelligent automation |
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=built-by-dhruv&show_icons=true&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=built-by-dhruv&layout=compact&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=built-by-dhruv&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Current Direction
+
+I'm focused on building **AI systems that are useful beyond a demo**:
+
+> **Private inference → reliable integrations → production deployment → real-world automation**
 
 ---
 
 <div align="center">
 
-**Build things. Make them work. Make them useful.**
+### Build things. Make them work. Make them useful.
+
+<a href="https://github.com/built-by-dhruv">
+<img src="https://img.shields.io/badge/GitHub-built--by--dhruv-181717?style=for-the-badge&logo=github" />
+</a>
 
 </div>
